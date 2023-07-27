@@ -2,5 +2,5 @@ applications:
 - memory: 1G
   disk_quota: 1G
   buildpacks:
-  - https://github.com/funcf/ipython-notebook-buildpack.git
+  - https://github.com/funcf/jupyter-notebook-buildpack.git
   - python_buildpack
